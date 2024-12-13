@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2> Hi there, I'm Jiayi <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="100"></h2>
 
-<!--
-**jiayi-dev/jiayi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-Here are some ideas to get you started:
+👋 A software developer👩‍💻 from Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <samp>
+    <a href="www.jiayi.ca">ME</a> .
+    <a href="https://www.jiayi.ca/blog">Blog</a> .
+    <a href="https://www.jiayi.ca/projects">Projects</a> .
+    <a href="https://www.linkedin.com/in/jiayi-dev/">LinkedIn</a> .
+  </samp>
+</p>
+
+
+- 🌱 I’m currently working on C#, Angular, React, and Next.js.
+- 📫 How to reach me: You may follow me on my [LinkedIn](https://www.linkedin.com/in/jiayi-dev/) or my blog at [Jiayi.ca](https://www.jiayi.ca/blog)
+- 📝 [Resume](https://jiayi-dev.github.io/jiayi/assets/resume.jiayi.li-Dk7kTtfj.pdf) (Updated 2024/11)
+
+
+**Languages:**  
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,mysql,react,angular,azure,aws)](https://www.jiayi.ca)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jiayi-dev&show_icons=true)
+
+[![](https://img.shields.io/static/v1?label=Contact&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](mailto:hi@jiayi.ca)
