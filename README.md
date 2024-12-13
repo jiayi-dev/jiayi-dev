@@ -26,4 +26,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jiayi-dev&show_icons=true)
 
-[![](https://img.shields.io/static/v1?label=Contact&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](mailto:hi@jiayi.ca)
+[![](https://img.shields.io/static/v1?label=Contact&message=%F0%9F%92%BB&logo=GitHub&color=%23fe8e86)](mailto:hi@jiayi.ca)
+
