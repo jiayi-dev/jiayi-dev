@@ -4,20 +4,18 @@
 
 👋 A software developer👩‍💻 from Canada.
 
-
 <p align="center">
   <samp>
-    <a href="https://www.jiayi.ca">ME</a> .
-    <a href="https://www.jiayi.ca/blog">Blog</a> .
-    <a href="https://www.jiayi.ca/projects">Projects</a> .
-    <a href="https://www.linkedin.com/in/jiayi-dev/">LinkedIn</a> .
+    <a href="https://www.jiayi.ca" target="_blank">ME</a> .
+    <a href="https://www.jiayi.ca/blog" target="_blank">Blog</a> .
+    <a href="https://www.jiayi.ca/projects" target="_blank">Projects</a> .
+    <a href="https://www.linkedin.com/in/jiayi-dev/" target="_blank">LinkedIn</a> .
   </samp>
 </p>
 
-
 - 🌱 I’m currently working on C#, Angular, React, and Next.js.
-- 📫 How to reach me: You may follow me on my [LinkedIn](https://www.linkedin.com/in/jiayi-dev/) or my blog at [Jiayi.ca](https://www.jiayi.ca/blog)
-- 📝 [Resume](https://jiayi-dev.github.io/jiayi/assets/resume.jiayi.li-Dk7kTtfj.pdf) (Updated 2024/11)
+- 📫 How to reach me: You may follow me on my <a href="https://www.linkedin.com/in/jiayi-dev/" target="_blank">LinkedIn</a> or my blog at <a href="https://www.jiayi.ca/blog" target="_blank">Jiayi.ca</a>
+- 📝 <a href="https://jiayi-dev.github.io/jiayi/assets/resume.jiayi.li-Dk7kTtfj.pdf" target="_blank">Resume</a> (Updated 2024/11)
 
 
 **Languages:**  
@@ -27,4 +25,3 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=jiayi-dev&show_icons=true)
 
 [![](https://img.shields.io/static/v1?label=Contact&message=%F0%9F%92%BB&logo=GitHub&color=%23fe8e86)](mailto:hi@jiayi.ca)
-
