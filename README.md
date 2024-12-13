@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    <a href="www.jiayi.ca">ME</a> .
+    <a href="https://www.jiayi.ca">ME</a> .
     <a href="https://www.jiayi.ca/blog">Blog</a> .
     <a href="https://www.jiayi.ca/projects">Projects</a> .
     <a href="https://www.linkedin.com/in/jiayi-dev/">LinkedIn</a> .
