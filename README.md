@@ -22,6 +22,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,mysql,react,angular,azure,aws)](https://www.jiayi.ca)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jiayi-dev&show_icons=true)
+<picture>
+  <img alt="github-snake" src="https://github.com/user-attachments/assets/547c2269-2bce-4d0f-9428-c50c84c30df9" />
+</picture>
+
 
 [![](https://img.shields.io/static/v1?label=Contact&message=%F0%9F%92%BB&logo=GitHub&color=%23fe8e86)](mailto:hi@jiayi.ca)
