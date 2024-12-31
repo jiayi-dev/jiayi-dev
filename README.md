@@ -7,15 +7,14 @@
 <p align="center">
   <samp>
     <a href="https://www.jiayi.ca" target="_blank">ME</a> .
-    <a href="https://www.jiayi.ca/blog" target="_blank">Blog</a> .
     <a href="https://www.jiayi.ca/projects" target="_blank">Projects</a> .
     <a href="https://www.linkedin.com/in/jiayi-dev/" target="_blank">LinkedIn</a> .
   </samp>
 </p>
 
 - 🌱 I’m currently working on C#, Angular, React, and Next.js.
-- 📫 How to reach me: You may follow me on my <a href="https://www.linkedin.com/in/jiayi-dev/" target="_blank">LinkedIn</a> or my blog at <a href="https://www.jiayi.ca/blog" target="_blank">Jiayi.ca</a>
-- 📝 <a href="https://jiayi-dev.github.io/jiayi/assets/resume.jiayi.li-Dk7kTtfj.pdf" target="_blank">Resume</a> (Updated 2024/11)
+- 📫 How to reach me: You may follow me on my <a href="https://www.linkedin.com/in/jiayi-dev/" target="_blank">LinkedIn</a> or my website at <a href="https://www.jiayi.ca" target="_blank">Jiayi.ca</a>
+- 📝 <a href="https://jiayi-dev.github.io/" target="_blank">Resume</a>
 
 
 **Languages:**  
